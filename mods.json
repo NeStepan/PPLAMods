@@ -1,0 +1,604 @@
+{
+  "mods": [
+    {
+      "modId": "aerocopycats",
+      "version": "1.1.1",
+      "fileName": "aerocopycats-1.1.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/aerocopycats-1.1.1.jar",
+      "sha256": "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8",
+      "isRequired": true
+    },
+    {
+      "modId": "aeronauticscompat",
+      "version": "1.1.3",
+      "fileName": "aeronauticscompat-1.1.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/aeronauticscompat-1.1.3.jar",
+      "sha256": "5204e1f901f20749673e384d18f73c1222f97c3efce28ff75c8fe782a55b1226",
+      "isRequired": true
+    },
+    {
+      "modId": "aeroworks",
+      "version": "1.4.2",
+      "fileName": "aeroworks-1.4.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/aeroworks-1.4.2.jar",
+      "sha256": "bd6720192321ff6970603b2d4f109e13d2cbf357673c9c7c53f8541fd9c73462",
+      "isRequired": true
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.11",
+      "fileName": "architectury-13.0.11-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/architectury-13.0.11-neoforge.jar",
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
+      "isRequired": true
+    },
+    {
+      "modId": "athena-neoforge",
+      "version": "1.21.1",
+      "fileName": "athena-neoforge-1.21.1-4.0.6.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/athena-neoforge-1.21.1-4.0.6.jar",
+      "sha256": "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5",
+      "isRequired": true
+    },
+    {
+      "modId": "baguettelib",
+      "version": "1.21.1",
+      "fileName": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha256": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5",
+      "isRequired": true
+    },
+    {
+      "modId": "bellsandwhistles",
+      "version": "0.4.7",
+      "fileName": "bellsandwhistles-0.4.7-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/bellsandwhistles-0.4.7-1.21.1.jar",
+      "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca",
+      "isRequired": true
+    },
+    {
+      "modId": "chipped-neoforge",
+      "version": "1.21.1",
+      "fileName": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291",
+      "isRequired": true
+    },
+    {
+      "modId": "climbable_ropes",
+      "version": "2.1.1",
+      "fileName": "climbable_ropes-2.1.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/climbable_ropes-2.1.1.jar",
+      "sha256": "2094081bb1b7f9647955570f190e697dc713eb25f36a028a5a02e461c75d281e",
+      "isRequired": true
+    },
+    {
+      "modId": "connector",
+      "version": "2.0.0",
+      "fileName": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/connector-2.0.0-beta.14+1.21.1-full.jar",
+      "sha256": "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b",
+      "isRequired": true
+    },
+    {
+      "modId": "copycats",
+      "version": "3.0.4",
+      "fileName": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+      "isRequired": true
+    },
+    {
+      "modId": "corpse-neoforge",
+      "version": "1.21.1",
+      "fileName": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha256": "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1",
+      "isRequired": true
+    },
+    {
+      "modId": "corpsecurioscompat",
+      "version": "1.21.1",
+      "fileName": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "sha256": "4fc4702868b51cbb94717f2c209373f2823fb1383a45c77ffdbeb6df96440d51",
+      "isRequired": true
+    },
+    {
+      "modId": "create encased",
+      "version": "1.21.1",
+      "fileName": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Create Encased-1.21.1-1.9.0-ht3.jar",
+      "sha256": "e93bb110241ab8283c6238590eb04f1fb37199815623f53f3e981ee650f344a3",
+      "isRequired": true
+    },
+    {
+      "modId": "create",
+      "version": "1.21.1",
+      "fileName": "create-1.21.1-6.0.10.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "isRequired": true
+    },
+    {
+      "modId": "create-aeronautics-bundled",
+      "version": "1.21.1",
+      "fileName": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c",
+      "isRequired": true
+    },
+    {
+      "modId": "create-central-kitchen",
+      "version": "2.5.0",
+      "fileName": "create-central-kitchen-2.5.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-central-kitchen-2.5.0.jar",
+      "sha256": "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec",
+      "isRequired": true
+    },
+    {
+      "modId": "createbigcannons",
+      "version": "5.11.7",
+      "fileName": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
+      "isRequired": true
+    },
+    {
+      "modId": "createdeco",
+      "version": "2.1.3",
+      "fileName": "createdeco-2.1.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/createdeco-2.1.3.jar",
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+      "isRequired": true
+    },
+    {
+      "modId": "createdragonsplus",
+      "version": "1.11.4",
+      "fileName": "CreateDragonsPlus-1.11.4.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/CreateDragonsPlus-1.11.4.jar",
+      "sha256": "80687f22daa95fa6240631097688f1e0295a5d31473d9aa56a14d360d863e98b",
+      "isRequired": true
+    },
+    {
+      "modId": "createframed",
+      "version": "1.21.1",
+      "fileName": "createframed-1.21.1-1.8.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/createframed-1.21.1-1.8.2.jar",
+      "sha256": "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283",
+      "isRequired": true
+    },
+    {
+      "modId": "creategoggles",
+      "version": "1.21.1",
+      "fileName": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "sha256": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
+      "isRequired": true
+    },
+    {
+      "modId": "createliquidfuel",
+      "version": "2.1.1",
+      "fileName": "createliquidfuel-2.1.1-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/createliquidfuel-2.1.1-1.21.1.jar",
+      "sha256": "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d",
+      "isRequired": true
+    },
+    {
+      "modId": "create_connected",
+      "version": "1.3.2",
+      "fileName": "create_connected-1.3.2-mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_connected-1.3.2-mc1.21.1.jar",
+      "sha256": "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b",
+      "isRequired": true
+    },
+    {
+      "modId": "create_ltab",
+      "version": "4.0.3",
+      "fileName": "create_ltab-4.0.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_ltab-4.0.3.jar",
+      "sha256": "2c7d8a0c7b0f5bea5c21267e0531955b55acfab499d5d5f37d946dced54fc41e",
+      "isRequired": true
+    },
+    {
+      "modId": "create_oxidized",
+      "version": "0.1.3",
+      "fileName": "create_oxidized-0.1.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_oxidized-0.1.3.jar",
+      "sha256": "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063",
+      "isRequired": true
+    },
+    {
+      "modId": "create_power_loader",
+      "version": "2.0.5",
+      "fileName": "create_power_loader-2.0.5-mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_power_loader-2.0.5-mc1.21.1.jar",
+      "sha256": "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7",
+      "isRequired": true
+    },
+    {
+      "modId": "curios-neoforge",
+      "version": "9.5.1",
+      "fileName": "curios-neoforge-9.5.1+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "isRequired": true
+    },
+    {
+      "modId": "design-n-decor",
+      "version": "1.21.1",
+      "fileName": "Design-n-Decor-1.21.1-2.2b.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Design-n-Decor-1.21.1-2.2b.jar",
+      "sha256": "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f",
+      "isRequired": true
+    },
+    {
+      "modId": "dndesires",
+      "version": "1.21.1",
+      "fileName": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/DnDesires-1.21.1-2.3a-BETA.jar",
+      "sha256": "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379",
+      "isRequired": true
+    },
+    {
+      "modId": "dyeable-components",
+      "version": "1.0.4",
+      "fileName": "dyeable-components-1.0.4+mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dyeable-components-1.0.4+mc1.21.1.jar",
+      "sha256": "07305f39a23985ae6ea4053c516686fc049a6ab114f30f9c42149ad50f395134",
+      "isRequired": true
+    },
+    {
+      "modId": "dz",
+      "version": "1.0.2",
+      "fileName": "dz-1.0.2-neoforge-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.2-neoforge-1.21.1.jar",
+      "sha256": "76b322d9d9915d41a5d55de7fded7a3ff295042c5086b6308fe65b70bbb48c4a",
+      "isRequired": true
+    },
+    {
+      "modId": "farmersdelight",
+      "version": "1.21.1",
+      "fileName": "FarmersDelight-1.21.1-1.3.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7",
+      "isRequired": true
+    },
+    {
+      "modId": "forgified-fabric-api",
+      "version": "0.116.15",
+      "fileName": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "sha256": "b152376a89cf790ca7966df220f3fa85fb8ecb603225a6a9bdb6684c94944f1e",
+      "isRequired": true
+    },
+    {
+      "modId": "fzzy_config",
+      "version": "0.7.6",
+      "fileName": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "isRequired": true
+    },
+    {
+      "modId": "immersive_paintings-neoforge",
+      "version": "1.21.1",
+      "fileName": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "sha256": "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c",
+      "isRequired": true
+    },
+    {
+      "modId": "interiors",
+      "version": "1.21.1",
+      "fileName": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/interiors-1.21.1-neoforge-0.6.1.jar",
+      "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+      "isRequired": true
+    },
+    {
+      "modId": "jade",
+      "version": "1.21.1",
+      "fileName": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
+      "isRequired": true
+    },
+    {
+      "modId": "jadeaddons",
+      "version": "1.21.1",
+      "fileName": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "sha256": "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64",
+      "isRequired": true
+    },
+    {
+      "modId": "jeed",
+      "version": "1.21",
+      "fileName": "jeed-1.21-2.3.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/jeed-1.21-2.3.3.jar",
+      "sha256": "b3ff4795e0cbb491ffada136884a78ba8d66df5d9c3c44230bffdbfa3dc797d7",
+      "isRequired": true
+    },
+    {
+      "modId": "jei",
+      "version": "1.21.1",
+      "fileName": "jei-1.21.1-neoforge-19.43.0.393.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/jei-1.21.1-neoforge-19.43.0.393.jar",
+      "sha256": "088c583065db05abeedca7868b619d22e204bcd73aafe7736b9eb79bcbb67c8a",
+      "isRequired": true
+    },
+    {
+      "modId": "justenoughbreeding-neoforge",
+      "version": "1.21.1",
+      "fileName": "justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "sha256": "0c79081af07c4f556feda06047a8ca801af6e979b468d14c74ec88a5d2529f19",
+      "isRequired": true
+    },
+    {
+      "modId": "justenoughresources-neoforge",
+      "version": "1.21.1",
+      "fileName": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "sha256": "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460",
+      "isRequired": true
+    },
+    {
+      "modId": "konkrete_neoforge_1.9.9_mc_1.21",
+      "version": "1.0.0",
+      "fileName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+      "isRequired": true
+    },
+    {
+      "modId": "kotlinforforge",
+      "version": "5.11.0",
+      "fileName": "kotlinforforge-5.11.0-all.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/kotlinforforge-5.11.0-all.jar",
+      "sha256": "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779",
+      "isRequired": true
+    },
+    {
+      "modId": "lambdynamiclights",
+      "version": "4.8.10",
+      "fileName": "lambdynamiclights-4.8.10+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/lambdynamiclights-4.8.10+1.21.1.jar",
+      "sha256": "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9",
+      "isRequired": true
+    },
+    {
+      "modId": "melody_neoforge_1.0.10_mc_1.21",
+      "version": "1.0.0",
+      "fileName": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
+      "isRequired": true
+    },
+    {
+      "modId": "midnightlib-neoforge",
+      "version": "1.9.3",
+      "fileName": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "sha256": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703",
+      "isRequired": true
+    },
+    {
+      "modId": "modelfix",
+      "version": "1.21",
+      "fileName": "modelfix-1.21-1.10.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/modelfix-1.21-1.10.jar",
+      "sha256": "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912",
+      "isRequired": true
+    },
+    {
+      "modId": "moonlight",
+      "version": "1.21.1",
+      "fileName": "moonlight-1.21.1-3.3.2-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/moonlight-1.21.1-3.3.2-neoforge.jar",
+      "sha256": "e64737a18c934fe1fac2c4bf3ea1e997012d06ab67e2a06635def5968edb4474",
+      "isRequired": true
+    },
+    {
+      "modId": "owo-lib-neoforge",
+      "version": "0.12.15.5",
+      "fileName": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "isRequired": true
+    },
+    {
+      "modId": "paxi",
+      "version": "1.21.1",
+      "fileName": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "sha256": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
+      "isRequired": true
+    },
+    {
+      "modId": "pipeorgans",
+      "version": "0.8.2",
+      "fileName": "pipeorgans-0.8.2+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/pipeorgans-0.8.2+1.21.1.jar",
+      "sha256": "bf51565afb47d0c0d1fef3cced7c837eff18302740f472372845339f5f22d939",
+      "isRequired": true
+    },
+    {
+      "modId": "platform-neoforge",
+      "version": "1.21.1",
+      "fileName": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Platform-neoforge-1.21.1-1.3.3.jar",
+      "sha256": "2d7175e43943d22cbb4f8d4533f0ad620f87a3ac12c77a4f15c3a35d965c4f18",
+      "isRequired": true
+    },
+    {
+      "modId": "polymorph-neoforge",
+      "version": "1.1.0",
+      "fileName": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+      "isRequired": true
+    },
+    {
+      "modId": "reeses-sodium-options-neoforge",
+      "version": "2.2.3",
+      "fileName": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e",
+      "isRequired": true
+    },
+    {
+      "modId": "resourcefullib-neoforge",
+      "version": "1.21",
+      "fileName": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+      "isRequired": true
+    },
+    {
+      "modId": "ritchiesprojectilelib",
+      "version": "2.1.2",
+      "fileName": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
+      "isRequired": true
+    },
+    {
+      "modId": "sable-neoforge",
+      "version": "1.21.1",
+      "fileName": "sable-neoforge-1.21.1-2.0.3.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sable-neoforge-1.21.1-2.0.3.jar",
+      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279",
+      "isRequired": true
+    },
+    {
+      "modId": "sablemassview",
+      "version": "1.0.0",
+      "fileName": "sablemassview-1.0.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sablemassview-1.0.0.jar",
+      "sha256": "8e5632e0ae6ce790b585dac2fd315c3ce58ae31441818f3adae3aa059b25d3af",
+      "isRequired": true
+    },
+    {
+      "modId": "sliceanddice",
+      "version": "4.3.3",
+      "fileName": "sliceanddice-4.3.3-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sliceanddice-4.3.3-neoforge.jar",
+      "sha256": "f887f70d8a5892c0cffb4fcac59dd189c76aef64e2f2d4771743ca8721d6ee48",
+      "isRequired": true
+    },
+    {
+      "modId": "sodium-extra-neoforge",
+      "version": "0.9.3",
+      "fileName": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
+      "isRequired": true
+    },
+    {
+      "modId": "sodium-neoforge",
+      "version": "0.8.13",
+      "fileName": "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+      "sha256": "72eb00f2a0bd9d21e9b7b0e4abc8f4a399287fc0ce5dced75968a3e2461e8919",
+      "isRequired": true
+    },
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "1.21.1",
+      "fileName": "sophisticatedbackpacks-1.21.1-3.25.74.2048.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sophisticatedbackpacks-1.21.1-3.25.74.2048.jar",
+      "sha256": "ece15f0328d71635ed066baaa3ab2ed3d4f4a5b2aba5187960cb08264e2244c0",
+      "isRequired": true
+    },
+    {
+      "modId": "sophisticatedcore",
+      "version": "1.21.1",
+      "fileName": "sophisticatedcore-1.21.1-1.4.82.2230.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sophisticatedcore-1.21.1-1.4.82.2230.jar",
+      "sha256": "cb3dab4e9b26b58c97c3eb09390731fe4b0be59cef326aad4fecbf1e528a0eaa",
+      "isRequired": true
+    },
+    {
+      "modId": "supplementaries",
+      "version": "1.21.1",
+      "fileName": "supplementaries-1.21.1-3.8.8-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/supplementaries-1.21.1-3.8.8-neoforge.jar",
+      "sha256": "cdd3d67b510f20f386690a2cbdbe63fd1ae9c8a620861738b6b80b1fa5c996f9",
+      "isRequired": true
+    },
+    {
+      "modId": "towed",
+      "version": "1.2.0",
+      "fileName": "towed-1.2.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/towed-1.2.0.jar",
+      "sha256": "c50a63fb2dabc95a0ceb5892d04c5b4451290a3273950bccca74384e7f8d8406",
+      "isRequired": true
+    },
+    {
+      "modId": "vanillabackport-neoforge",
+      "version": "1.21.1",
+      "fileName": "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "sha256": "ecd807ac358e243ede17819455788c7b7a0ce5e0af4aecee82c1c62c586d818d",
+      "isRequired": true
+    },
+    {
+      "modId": "vinurl",
+      "version": "2.6.0",
+      "fileName": "vinurl-2.6.0+mc1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/vinurl-2.6.0+mc1.21.1.jar",
+      "sha256": "5a99a9747b2121b77e9ae3a44157292cb260781184b981b98345a6a2aae95bf1",
+      "isRequired": true
+    },
+    {
+      "modId": "vista",
+      "version": "1.21.1",
+      "fileName": "vista-1.21.1-5.3.0-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/vista-1.21.1-5.3.0-neoforge.jar",
+      "sha256": "bd28a9f9d9192f678e1e828983bfd67d591f5e654146b074c5cae790b7130111",
+      "isRequired": true
+    },
+    {
+      "modId": "voicechat-neoforge",
+      "version": "1.21.1",
+      "fileName": "voicechat-neoforge-1.21.1-2.6.21.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/voicechat-neoforge-1.21.1-2.6.21.jar",
+      "sha256": "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366",
+      "isRequired": true
+    },
+    {
+      "modId": "voicemessages-neoforge",
+      "version": "1.0.12",
+      "fileName": "voicemessages-neoforge-1.0.12-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/voicemessages-neoforge-1.0.12-1.21.1.jar",
+      "sha256": "eb1d311b67c3a5a7c56aafd243441a5a8afb9f808f262a070f0447f452c61feb",
+      "isRequired": true
+    },
+    {
+      "modId": "vp",
+      "version": "1.0.8",
+      "fileName": "vp-1.0.8-neoforge-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/vp-1.0.8-neoforge-1.21.1.jar",
+      "sha256": "5417916a4a8005dc90a6ccff250bbcfe0b19ab8c25611763113e4bb0b40138fb",
+      "isRequired": true
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.8.2",
+      "fileName": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "isRequired": true
+    },
+    {
+      "modId": "yungsapi",
+      "version": "1.21.1",
+      "fileName": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+      "isRequired": true
+    }
+  ]
+}
