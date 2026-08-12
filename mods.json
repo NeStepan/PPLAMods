@@ -107,7 +107,7 @@
     {
       "modId": "create encased",
       "version": "1.21.1",
-      "fileName": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "fileName": "Create_Encased-1.21.1-1.9.0-ht3.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/Create Encased-1.21.1-1.9.0-ht3.jar",
       "sha256": "e93bb110241ab8283c6238590eb04f1fb37199815623f53f3e981ee650f344a3",
       "isRequired": true
@@ -253,7 +253,7 @@
       "version": "1.0.2",
       "fileName": "dz-1.0.2-neoforge-1.21.1.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.2-neoforge-1.21.1.jar",
-      "sha256": "76b322d9d9915d41a5d55de7fded7a3ff295042c5086b6308fe65b70bbb48c4a",
+      "sha256": "17f1a847bcb53fc367bcc10d636f151caedb9c8d43d946b07c0e0ced649ea84d",
       "isRequired": true
     },
     {
