@@ -1,6 +1,14 @@
 {
   "mods": [
     {
+      "modId": "aaml",
+      "version": "1.0.2",
+      "fileName": "AAML_1.0.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/AAML_1.0.2.jar",
+      "sha256": "a86d12370009842961edb29fdc391497dc9b54fa365dee74307979c54532f744",
+      "isRequired": true
+    },
+    {
       "modId": "aerocopycats",
       "version": "1.1.1",
       "fileName": "aerocopycats-1.1.1.jar",
