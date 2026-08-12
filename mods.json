@@ -171,8 +171,8 @@
     {
       "modId": "creategoggles",
       "version": "1.21.1",
-      "fileName": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "fileName": "creategoggles-1.21.1-6.1.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/creategoggles-1.21.1-6.1.1.jar",
       "sha256": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
       "isRequired": true
     },
