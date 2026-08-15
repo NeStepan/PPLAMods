@@ -9,6 +9,22 @@
       "isRequired": true
     },
     {
+      "modId": "aeronautics_utility_objects",
+      "version": "0.2.5",
+      "fileName": "create_aeronautics_transmission_linkage-0.2.5.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "sha256": "8151aeb76911b0bfc393545b3d69aca2725d036d20b729c333404cbadbe00afe",
+      "isRequired": true
+    },
+    {
+      "modId": "aaml",
+      "version": "1.0.2",
+      "fileName": "AAML_1.0.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/AAML_1.0.2.jar",
+      "sha256": "a86d12370009842961edb29fdc391497dc9b54fa365dee74307979c54532f744",
+      "isRequired": true
+    },
+    {
       "modId": "aerocopycats",
       "version": "1.1.1",
       "fileName": "aerocopycats-1.1.1.jar",
@@ -449,14 +465,6 @@
       "isRequired": true
     },
     {
-      "modId": "reeses-sodium-options-neoforge",
-      "version": "2.2.3",
-      "fileName": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
-      "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e",
-      "isRequired": true
-    },
-    {
       "modId": "resourcefullib-neoforge",
       "version": "1.21",
       "fileName": "resourcefullib-neoforge-1.21-3.0.12.jar",
@@ -494,22 +502,6 @@
       "fileName": "sliceanddice-4.3.3-neoforge.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sliceanddice-4.3.3-neoforge.jar",
       "sha256": "f887f70d8a5892c0cffb4fcac59dd189c76aef64e2f2d4771743ca8721d6ee48",
-      "isRequired": true
-    },
-    {
-      "modId": "sodium-extra-neoforge",
-      "version": "0.9.3",
-      "fileName": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
-      "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
-      "isRequired": true
-    },
-    {
-      "modId": "sodium-neoforge",
-      "version": "0.8.13",
-      "fileName": "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
-      "sha256": "72eb00f2a0bd9d21e9b7b0e4abc8f4a399287fc0ce5dced75968a3e2461e8919",
       "isRequired": true
     },
     {
