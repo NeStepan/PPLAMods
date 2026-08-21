@@ -9,19 +9,27 @@
       "isRequired": true
     },
     {
+      "modId": "create_factory_logistics",
+      "version": "1.6.0",
+      "fileName": "create_factory_logistics-1.21.1-1.6.0-all.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_factory_logistics-1.21.1-1.6.0-all.jar",
+      "sha256": "872283f392d4d2b1fd7a6cf617a8e9baeac1786cbb7b39d234e8d367adb3b5b7",
+      "isRequired": true
+    },
+    {
+      "modId": "create_enchantment_industry",
+      "version": "2.4.2",
+      "fileName": "create-enchantment-industry-2.4.2.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-enchantment-industry-2.4.2.jar",
+      "sha256": "81f192bb53888e01f87a82eaac2f261c93715f2221dbcf5d8a8d414f912f75ef",
+      "isRequired": true
+    },
+    {
       "modId": "aeronautics_utility_objects",
       "version": "0.2.5",
       "fileName": "create_aeronautics_transmission_linkage-0.2.5.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_aeronautics_transmission_linkage-0.2.5.jar",
       "sha256": "8151aeb76911b0bfc393545b3d69aca2725d036d20b729c333404cbadbe00afe",
-      "isRequired": true
-    },
-    {
-      "modId": "aaml",
-      "version": "1.0.2",
-      "fileName": "AAML_1.0.2.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/AAML_1.0.2.jar",
-      "sha256": "a86d12370009842961edb29fdc391497dc9b54fa365dee74307979c54532f744",
       "isRequired": true
     },
     {
