@@ -282,10 +282,10 @@
     },
     {
       "modId": "dz",
-      "version": "1.0.2",
-      "fileName": "dz-1.0.2-neoforge-1.21.1.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.2-neoforge-1.21.1.jar",
-      "sha256": "17f1a847bcb53fc367bcc10d636f151caedb9c8d43d946b07c0e0ced649ea84d",
+      "version": "1.0.4",
+      "fileName": "dz-1.0.4-neoforge-1.21.1.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.4-neoforge-1.21.1.jar",
+      "sha256": "e1fff181adeaf07d4175b56f08e3172732fea18edd120679a26c7c4f4c600a68",
       "isRequired": true
     },
     {
