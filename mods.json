@@ -10,10 +10,10 @@
     },
     {
       "modId": "create_factory_logistics",
-      "version": "1.6.0",
-      "fileName": "create_factory_logistics-1.21.1-1.6.0-all.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_factory_logistics-1.21.1-1.6.0-all.jar",
-      "sha256": "872283f392d4d2b1fd7a6cf617a8e9baeac1786cbb7b39d234e8d367adb3b5b7",
+      "version": "1.21.1",
+      "fileName": "create_factory_logistics-1.21.1-fix.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_factory_logistics-1.21.1-fix.jar",
+      "sha256": "24c0a4996b53f570d04bbbaa6a25bce0b6f927e3444b1adef34f176c96b896b9",
       "isRequired": true
     },
     {
