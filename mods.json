@@ -9,14 +9,6 @@
       "isRequired": true
     },
     {
-      "modId": "create_factory_logistics",
-      "version": "1.21.1",
-      "fileName": "create_factory_logistics-1.21.1-fix.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create_factory_logistics-1.21.1-fix.jar",
-      "sha256": "24c0a4996b53f570d04bbbaa6a25bce0b6f927e3444b1adef34f176c96b896b9",
-      "isRequired": true
-    },
-    {
       "modId": "create_enchantment_industry",
       "version": "2.4.2",
       "fileName": "create-enchantment-industry-2.4.2.jar",
