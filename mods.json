@@ -273,7 +273,7 @@
       "isRequired": true
     },
     {
-      "modId": "dead_zone",
+      "modId": "dz",
       "version": "1.0.6",
       "fileName": "dz-1.0.6-neoforge-1.21.1.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.6-neoforge-1.21.1.jar",
