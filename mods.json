@@ -10,9 +10,9 @@
     },
     {
       "modId": "create_enchantment_industry",
-      "version": "2.4.2",
-      "fileName": "create-enchantment-industry-2.4.2.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-enchantment-industry-2.4.2.jar",
+      "version": "2.5.0",
+      "fileName": "create-enchantment-industry-2.5.0.jar",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/create-enchantment-industry-2.5.0.jar",
       "sha256": "81f192bb53888e01f87a82eaac2f261c93715f2221dbcf5d8a8d414f912f75ef",
       "isRequired": true
     },
@@ -274,9 +274,9 @@
     },
     {
       "modId": "dz",
-      "version": "1.0.5",
-      "fileName": "dz-1.0.5-neoforge-1.21.1.jar",
-      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.5-neoforge-1.21.1.jar",
+      "version": "1.0.6",
+      "fileName": "dz-1.0.6-neoforge-1.21.1",
+      "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.6-neoforge-1.21.1.jar",
       "sha256": "5757648116faf35cf4aeaa7bc1df79dc443db7d5378d1387188cbe0f51d9fa0f",
       "isRequired": true 
     },
