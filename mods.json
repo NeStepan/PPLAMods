@@ -275,10 +275,10 @@
     {
       "modId": "dz",
       "version": "1.0.6",
-      "fileName": "dz-1.0.6-neoforge-1.21.1",
+      "fileName": "dz-1.0.6-neoforge-1.21.1.jar",
       "downloadUrl": "https://github.com/NeStepan/PPLAMods/raw/refs/heads/main/dz-1.0.6-neoforge-1.21.1.jar",
-      "sha256": "5757648116faf35cf4aeaa7bc1df79dc443db7d5378d1387188cbe0f51d9fa0f",
-      "isRequired": true 
+      "sha256": "d2aff12dbcad5adbc19979d02277edfd53be4ee193dde72d68a8721776d260f0",
+      "isRequired": false
     },
     {
       "modId": "farmersdelight",
